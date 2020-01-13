@@ -1,0 +1,1846 @@
+[
+  {
+    "matricula": 14190342,
+    "materias_info": [
+      {
+        "nombre": "TALLER DE ÉTICA",
+        "CR": 4,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2014",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "TALLER DE ADMINISTRACIÓN",
+        "CR": 4,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2014",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "FUNDAMENTOS DE INVESTIGACIÓN",
+        "CR": 4,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2014",
+        "CALIFICACION": 89,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "CALCULO DIFERENCIAL",
+        "CR": 5,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2014",
+        "CALIFICACION": 96,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "FUNDAMENTOS DE PROGRAMACIÓN",
+        "CR": 5,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2014",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "MATEMÁTICAS DISCRETAS",
+        "CR": 5,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2014",
+        "CALIFICACION": 75,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "TALLER DE ADMINISTRACIÓN",
+        "CR": 4,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2014",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "CONTABILIDAD FINANCIERA",
+        "CR": 4,
+        "SEMESTRE": 2,
+        "PERIODO": "ENE-JUN/2015",
+        "CALIFICACION": 85,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "QUIMICA",
+        "CR": 4,
+        "SEMESTRE": 2,
+        "PERIODO": "ENE-JUN/2015",
+        "CALIFICACION": 85,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "CÁLCULO INTEGRAL",
+        "CR": 5,
+        "SEMESTRE": 2,
+        "PERIODO": "ENE-JUN/2015",
+        "CALIFICACION": 70,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "PROGRAMACIÓN ORIENTADA A OBJETOS",
+        "CR": 5,
+        "SEMESTRE": 2,
+        "PERIODO": "ENE-JUN/2015",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "ALG. LINEAL",
+        "CR": 5,
+        "SEMESTRE": 2,
+        "PERIODO": "ENE-JUN/2015",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "PROB. Y ESTADISTICA",
+        "CR": 5,
+        "SEMESTRE": 2,
+        "PERIODO": "ENE-JUN/2015",
+        "CALIFICACION": 99,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "CULT. EMPRESARIAL",
+        "CR": 4,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2015",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "INV. D OPERACIONES",
+        "CR": 4,
+        "SEMESTRE": 3,
+        "PERIODO": "AGO-DIC/2015",
+        "CALIFICACION": 89,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "SIST. OP.",
+        "CR": 4,
+        "SEMESTRE": 3,
+        "PERIODO": "AGO-DIC/2015",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD", "COMP"]
+      },
+      {
+        "nombre": "CALC. VECT",
+        "CR": 5,
+        "SEMESTRE": 3,
+        "PERIODO": "AGO-DIC/2015",
+        "CALIFICACION": 72,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "ESTRUC. D DATOS",
+        "CR": 5,
+        "SEMESTRE": 3,
+        "PERIODO": "AGO-DIC/2015",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "FISICA GRAL.",
+        "CR": 5,
+        "SEMESTRE": 3,
+        "PERIODO": "AGO-DIC/2015",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "METODOS NUMERICOS",
+        "CR": 4,
+        "SEMESTRE": 4,
+        "PERIODO": "ENE-JUN/2016",
+        "CALIFICACION": 0,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "TALLER DE S.O.",
+        "CR": 4,
+        "SEMESTRE": 4,
+        "PERIODO": "ENE-JUN/2016",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "EC. DIFERENCIALES",
+        "CR": 5,
+        "SEMESTRE": 4,
+        "PERIODO": "ENE-JUN/2016",
+        "CALIFICACION": 93,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "TOP. AVAN. D PROG.",
+        "CR": 5,
+        "SEMESTRE": 4,
+        "PERIODO": "ENE-JUN/2016",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "FUND. DE BASE DE DATOS",
+        "CR": 5,
+        "SEMESTRE": 4,
+        "PERIODO": "ENE-JUN/2016",
+        "CALIFICACION": 81,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "P. ELECT. Y APLIC. DIG.",
+        "CR": 5,
+        "SEMESTRE": 4,
+        "PERIODO": "ENE-JUN/2016",
+        "CALIFICACION": 87,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "METODOS NUMERICOS",
+        "CR": 4,
+        "SEMESTRE": 5,
+        "PERIODO": "AGO-DIC/2016",
+        "CALIFICACION": 93,
+        "OPORTUNIDAD": ["REP", "ORD"]
+      },
+      {
+        "nombre": "FUND. DE TELECOM.",
+        "CR": 4,
+        "SEMESTRE": 5,
+        "PERIODO": "AGO-DIC/2016",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "TALLER DE B. D.",
+        "CR": 4,
+        "SEMESTRE": 5,
+        "PERIODO": "AGO-DIC/2016",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "FUND. INGRIA. DE S.W.",
+        "CR": 4,
+        "SEMESTRE": 5,
+        "PERIODO": "AGO-DIC/2016",
+        "CALIFICACION": 86,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "DES. SUST.",
+        "CR": 5,
+        "SEMESTRE": 5,
+        "PERIODO": "AGO-DIC/2016",
+        "CALIFICACION": 75,
+        "OPORTUNIDAD": ["ORD", "COMP"]
+      },
+      {
+        "nombre": "SIMULACION",
+        "CR": 5,
+        "SEMESTRE": 5,
+        "PERIODO": "AGO-DIC/2016",
+        "CALIFICACION": 89,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "ARQ. DE COMPT.",
+        "CR": 5,
+        "SEMESTRE": 5,
+        "PERIODO": "AGO-DIC/2016",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "GRAFICACION",
+        "CR": 4,
+        "SEMESTRE": 6,
+        "PERIODO": "ENE-JUN/2017",
+        "CALIFICACION": 88,
+        "OPORTUNIDAD": ["ORD", "COMP"]
+      },
+      {
+        "nombre": "LENG. DE INTERFAZ",
+        "CR": 4,
+        "SEMESTRE": 6,
+        "PERIODO": "ENE-JUN/2017",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "TALLER DE INV. I",
+        "CR": 4,
+        "SEMESTRE": 6,
+        "PERIODO": "ENE-JUN/2017",
+        "CALIFICACION": 85,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "LENG. Y AUTOMATAS I",
+        "CR": 5,
+        "SEMESTRE": 6,
+        "PERIODO": "ENE-JUN/2017",
+        "CALIFICACION": 75,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "REDES DE COMPUTADORAS",
+        "CR": 5,
+        "SEMESTRE": 6,
+        "PERIODO": "ENE-JUN/2017",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "ADMON. DE BASE DE DATOS",
+        "CR": 5,
+        "SEMESTRE": 6,
+        "PERIODO": "ENE-JUN/2017",
+        "CALIFICACION": 82,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "ING. DE S.W.",
+        "CR": 5,
+        "SEMESTRE": 6,
+        "PERIODO": "ENE-JUN/2017",
+        "CALIFICACION": 75,
+        "OPORTUNIDAD": ["ORD", "COMP"]
+      },
+      {
+        "nombre": "SIST. PROGRAM.",
+        "CR": 4,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "PROG. LOG. FUNCIONAL",
+        "CR": 4,
+        "SEMESTRE": 7,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": 0,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "LENG. Y AUTOMATAS II",
+        "CR": 5,
+        "SEMESTRE": 7,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": 80,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "CONM. Y ENRUT. EN REDES DE DATOS",
+        "CR": 5,
+        "SEMESTRE": 7,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": 89,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "PROG. WEB",
+        "CR": 5,
+        "SEMESTRE": 7,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": 85,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "ACT. COMP.",
+        "CR": 5,
+        "SEMESTRE": 7,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": "AC",
+        "OPORTUNIDAD": ["ACREDITADA"]
+      },
+      {
+        "nombre": "FUND. DE SEG. EN REDES",
+        "CR": 6,
+        "SEMESTRE": 7,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": 87,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "GESTION DE PROY. DE SOFT.",
+        "CR": 6,
+        "SEMESTRE": 7,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": 85,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "PROG. LOG. FUNCIONAL",
+        "CR": 4,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "ADMON DE REDES",
+        "CR": 4,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 83,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "T. DE INV. II",
+        "CR": 4,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 83,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "FUND. DE CLOUD COMPUTING",
+        "CR": 5,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "WIRELESS NETWORKS",
+        "CR": 5,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 86,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "SEGURIDAD EN REDES",
+        "CR": 5,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "FIBRA ÓPTICA",
+        "CR": 5,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "SERV. SOC.",
+        "CR": 10,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "INTELIGENCIA ARTIFICIAL",
+        "CR": 4,
+        "SEMESTRE": 8,
+        "PERIODO": "VERANO/2018",
+        "CALIFICACION": 89,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "RESIDENCIA PROFESIONAL",
+        "CR": 10,
+        "SEMESTRE": 9,
+        "PERIODO": "AGO-DIC/2018",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      }
+    ]
+  },
+  {
+    "matricula": 14190345,
+    "materias_info": [
+      {
+        "nombre": "TALLER DE ÉTICA",
+        "CR": 4,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2014",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "TALLER DE ADMINISTRACIÓN",
+        "CR": 4,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2014",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "FUNDAMENTOS DE INVESTIGACIÓN",
+        "CR": 4,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2014",
+        "CALIFICACION": 89,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "CALCULO DIFERENCIAL",
+        "CR": 5,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2014",
+        "CALIFICACION": 96,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "FUNDAMENTOS DE PROGRAMACIÓN",
+        "CR": 5,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2014",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "MATEMÁTICAS DISCRETAS",
+        "CR": 5,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2014",
+        "CALIFICACION": 75,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "TALLER DE ADMINISTRACIÓN",
+        "CR": 4,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2014",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "CONTABILIDAD FINANCIERA",
+        "CR": 4,
+        "SEMESTRE": 2,
+        "PERIODO": "ENE-JUN/2015",
+        "CALIFICACION": 85,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "QUIMICA",
+        "CR": 4,
+        "SEMESTRE": 2,
+        "PERIODO": "ENE-JUN/2015",
+        "CALIFICACION": 85,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "CÁLCULO INTEGRAL",
+        "CR": 5,
+        "SEMESTRE": 2,
+        "PERIODO": "ENE-JUN/2015",
+        "CALIFICACION": 70,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "PROGRAMACIÓN ORIENTADA A OBJETOS",
+        "CR": 5,
+        "SEMESTRE": 2,
+        "PERIODO": "ENE-JUN/2015",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "ALG. LINEAL",
+        "CR": 5,
+        "SEMESTRE": 2,
+        "PERIODO": "ENE-JUN/2015",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "PROB. Y ESTADISTICA",
+        "CR": 5,
+        "SEMESTRE": 2,
+        "PERIODO": "ENE-JUN/2015",
+        "CALIFICACION": 99,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "CULT. EMPRESARIAL",
+        "CR": 4,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2015",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "INV. D OPERACIONES",
+        "CR": 4,
+        "SEMESTRE": 3,
+        "PERIODO": "AGO-DIC/2015",
+        "CALIFICACION": 89,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "SIST. OP.",
+        "CR": 4,
+        "SEMESTRE": 3,
+        "PERIODO": "AGO-DIC/2015",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD", "COMP"]
+      },
+      {
+        "nombre": "CALC. VECT",
+        "CR": 5,
+        "SEMESTRE": 3,
+        "PERIODO": "AGO-DIC/2015",
+        "CALIFICACION": 72,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "ESTRUC. D DATOS",
+        "CR": 5,
+        "SEMESTRE": 3,
+        "PERIODO": "AGO-DIC/2015",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "FISICA GRAL.",
+        "CR": 5,
+        "SEMESTRE": 3,
+        "PERIODO": "AGO-DIC/2015",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "METODOS NUMERICOS",
+        "CR": 4,
+        "SEMESTRE": 4,
+        "PERIODO": "ENE-JUN/2016",
+        "CALIFICACION": 0,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "TALLER DE S.O.",
+        "CR": 4,
+        "SEMESTRE": 4,
+        "PERIODO": "ENE-JUN/2016",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "EC. DIFERENCIALES",
+        "CR": 5,
+        "SEMESTRE": 4,
+        "PERIODO": "ENE-JUN/2016",
+        "CALIFICACION": 93,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "TOP. AVAN. D PROG.",
+        "CR": 5,
+        "SEMESTRE": 4,
+        "PERIODO": "ENE-JUN/2016",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "FUND. DE BASE DE DATOS",
+        "CR": 5,
+        "SEMESTRE": 4,
+        "PERIODO": "ENE-JUN/2016",
+        "CALIFICACION": 81,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "P. ELECT. Y APLIC. DIG.",
+        "CR": 5,
+        "SEMESTRE": 4,
+        "PERIODO": "ENE-JUN/2016",
+        "CALIFICACION": 87,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "METODOS NUMERICOS",
+        "CR": 4,
+        "SEMESTRE": 5,
+        "PERIODO": "AGO-DIC/2016",
+        "CALIFICACION": 93,
+        "OPORTUNIDAD": ["REP", "ORD"]
+      },
+      {
+        "nombre": "FUND. DE TELECOM.",
+        "CR": 4,
+        "SEMESTRE": 5,
+        "PERIODO": "AGO-DIC/2016",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "TALLER DE B. D.",
+        "CR": 4,
+        "SEMESTRE": 5,
+        "PERIODO": "AGO-DIC/2016",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "FUND. INGRIA. DE S.W.",
+        "CR": 4,
+        "SEMESTRE": 5,
+        "PERIODO": "AGO-DIC/2016",
+        "CALIFICACION": 86,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "DES. SUST.",
+        "CR": 5,
+        "SEMESTRE": 5,
+        "PERIODO": "AGO-DIC/2016",
+        "CALIFICACION": 75,
+        "OPORTUNIDAD": ["ORD", "COMP"]
+      },
+      {
+        "nombre": "SIMULACION",
+        "CR": 5,
+        "SEMESTRE": 5,
+        "PERIODO": "AGO-DIC/2016",
+        "CALIFICACION": 89,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "ARQ. DE COMPT.",
+        "CR": 5,
+        "SEMESTRE": 5,
+        "PERIODO": "AGO-DIC/2016",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "GRAFICACION",
+        "CR": 4,
+        "SEMESTRE": 6,
+        "PERIODO": "ENE-JUN/2017",
+        "CALIFICACION": 88,
+        "OPORTUNIDAD": ["ORD", "COMP"]
+      },
+      {
+        "nombre": "LENG. DE INTERFAZ",
+        "CR": 4,
+        "SEMESTRE": 6,
+        "PERIODO": "ENE-JUN/2017",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "TALLER DE INV. I",
+        "CR": 4,
+        "SEMESTRE": 6,
+        "PERIODO": "ENE-JUN/2017",
+        "CALIFICACION": 85,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "LENG. Y AUTOMATAS I",
+        "CR": 5,
+        "SEMESTRE": 6,
+        "PERIODO": "ENE-JUN/2017",
+        "CALIFICACION": 75,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "REDES DE COMPUTADORAS",
+        "CR": 5,
+        "SEMESTRE": 6,
+        "PERIODO": "ENE-JUN/2017",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "ADMON. DE BASE DE DATOS",
+        "CR": 5,
+        "SEMESTRE": 6,
+        "PERIODO": "ENE-JUN/2017",
+        "CALIFICACION": 82,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "ING. DE S.W.",
+        "CR": 5,
+        "SEMESTRE": 6,
+        "PERIODO": "ENE-JUN/2017",
+        "CALIFICACION": 75,
+        "OPORTUNIDAD": ["ORD", "COMP"]
+      },
+      {
+        "nombre": "SIST. PROGRAM.",
+        "CR": 4,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "PROG. LOG. FUNCIONAL",
+        "CR": 4,
+        "SEMESTRE": 7,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": 0,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "LENG. Y AUTOMATAS II",
+        "CR": 5,
+        "SEMESTRE": 7,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": 80,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "CONM. Y ENRUT. EN REDES DE DATOS",
+        "CR": 5,
+        "SEMESTRE": 7,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": 89,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "PROG. WEB",
+        "CR": 5,
+        "SEMESTRE": 7,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": 85,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "ACT. COMP.",
+        "CR": 5,
+        "SEMESTRE": 7,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": "AC",
+        "OPORTUNIDAD": ["ACREDITADA"]
+      },
+      {
+        "nombre": "FUND. DE SEG. EN REDES",
+        "CR": 6,
+        "SEMESTRE": 7,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": 87,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "GESTION DE PROY. DE SOFT.",
+        "CR": 6,
+        "SEMESTRE": 7,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": 85,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "PROG. LOG. FUNCIONAL",
+        "CR": 4,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "ADMON DE REDES",
+        "CR": 4,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 83,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "T. DE INV. II",
+        "CR": 4,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 83,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "FUND. DE CLOUD COMPUTING",
+        "CR": 5,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "WIRELESS NETWORKS",
+        "CR": 5,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 86,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "SEGURIDAD EN REDES",
+        "CR": 5,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "FIBRA ÓPTICA",
+        "CR": 5,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "SERV. SOC.",
+        "CR": 10,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "INTELIGENCIA ARTIFICIAL",
+        "CR": 4,
+        "SEMESTRE": 8,
+        "PERIODO": "VERANO/2018",
+        "CALIFICACION": 89,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "RESIDENCIA PROFESIONAL",
+        "CR": 10,
+        "SEMESTRE": 9,
+        "PERIODO": "AGO-DIC/2018",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      }
+    ]
+  },
+  {
+    "matricula": 14190348,
+    "materias_info": [
+      {
+        "nombre": "TALLER DE ÉTICA",
+        "CR": 4,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2014",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "TALLER DE ADMINISTRACIÓN",
+        "CR": 4,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2014",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "FUNDAMENTOS DE INVESTIGACIÓN",
+        "CR": 4,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2014",
+        "CALIFICACION": 89,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "CALCULO DIFERENCIAL",
+        "CR": 5,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2014",
+        "CALIFICACION": 96,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "FUNDAMENTOS DE PROGRAMACIÓN",
+        "CR": 5,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2014",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "MATEMÁTICAS DISCRETAS",
+        "CR": 5,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2014",
+        "CALIFICACION": 75,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "TALLER DE ADMINISTRACIÓN",
+        "CR": 4,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2014",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "CONTABILIDAD FINANCIERA",
+        "CR": 4,
+        "SEMESTRE": 2,
+        "PERIODO": "ENE-JUN/2015",
+        "CALIFICACION": 85,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "QUIMICA",
+        "CR": 4,
+        "SEMESTRE": 2,
+        "PERIODO": "ENE-JUN/2015",
+        "CALIFICACION": 85,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "CÁLCULO INTEGRAL",
+        "CR": 5,
+        "SEMESTRE": 2,
+        "PERIODO": "ENE-JUN/2015",
+        "CALIFICACION": 70,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "PROGRAMACIÓN ORIENTADA A OBJETOS",
+        "CR": 5,
+        "SEMESTRE": 2,
+        "PERIODO": "ENE-JUN/2015",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "ALG. LINEAL",
+        "CR": 5,
+        "SEMESTRE": 2,
+        "PERIODO": "ENE-JUN/2015",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "PROB. Y ESTADISTICA",
+        "CR": 5,
+        "SEMESTRE": 2,
+        "PERIODO": "ENE-JUN/2015",
+        "CALIFICACION": 99,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "CULT. EMPRESARIAL",
+        "CR": 4,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2015",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "INV. D OPERACIONES",
+        "CR": 4,
+        "SEMESTRE": 3,
+        "PERIODO": "AGO-DIC/2015",
+        "CALIFICACION": 89,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "SIST. OP.",
+        "CR": 4,
+        "SEMESTRE": 3,
+        "PERIODO": "AGO-DIC/2015",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD", "COMP"]
+      },
+      {
+        "nombre": "CALC. VECT",
+        "CR": 5,
+        "SEMESTRE": 3,
+        "PERIODO": "AGO-DIC/2015",
+        "CALIFICACION": 72,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "ESTRUC. D DATOS",
+        "CR": 5,
+        "SEMESTRE": 3,
+        "PERIODO": "AGO-DIC/2015",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "FISICA GRAL.",
+        "CR": 5,
+        "SEMESTRE": 3,
+        "PERIODO": "AGO-DIC/2015",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "METODOS NUMERICOS",
+        "CR": 4,
+        "SEMESTRE": 4,
+        "PERIODO": "ENE-JUN/2016",
+        "CALIFICACION": 0,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "TALLER DE S.O.",
+        "CR": 4,
+        "SEMESTRE": 4,
+        "PERIODO": "ENE-JUN/2016",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "EC. DIFERENCIALES",
+        "CR": 5,
+        "SEMESTRE": 4,
+        "PERIODO": "ENE-JUN/2016",
+        "CALIFICACION": 93,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "TOP. AVAN. D PROG.",
+        "CR": 5,
+        "SEMESTRE": 4,
+        "PERIODO": "ENE-JUN/2016",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "FUND. DE BASE DE DATOS",
+        "CR": 5,
+        "SEMESTRE": 4,
+        "PERIODO": "ENE-JUN/2016",
+        "CALIFICACION": 81,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "P. ELECT. Y APLIC. DIG.",
+        "CR": 5,
+        "SEMESTRE": 4,
+        "PERIODO": "ENE-JUN/2016",
+        "CALIFICACION": 87,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "METODOS NUMERICOS",
+        "CR": 4,
+        "SEMESTRE": 5,
+        "PERIODO": "AGO-DIC/2016",
+        "CALIFICACION": 93,
+        "OPORTUNIDAD": ["REP", "ORD"]
+      },
+      {
+        "nombre": "FUND. DE TELECOM.",
+        "CR": 4,
+        "SEMESTRE": 5,
+        "PERIODO": "AGO-DIC/2016",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "TALLER DE B. D.",
+        "CR": 4,
+        "SEMESTRE": 5,
+        "PERIODO": "AGO-DIC/2016",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "FUND. INGRIA. DE S.W.",
+        "CR": 4,
+        "SEMESTRE": 5,
+        "PERIODO": "AGO-DIC/2016",
+        "CALIFICACION": 86,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "DES. SUST.",
+        "CR": 5,
+        "SEMESTRE": 5,
+        "PERIODO": "AGO-DIC/2016",
+        "CALIFICACION": 75,
+        "OPORTUNIDAD": ["ORD", "COMP"]
+      },
+      {
+        "nombre": "SIMULACION",
+        "CR": 5,
+        "SEMESTRE": 5,
+        "PERIODO": "AGO-DIC/2016",
+        "CALIFICACION": 89,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "ARQ. DE COMPT.",
+        "CR": 5,
+        "SEMESTRE": 5,
+        "PERIODO": "AGO-DIC/2016",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "GRAFICACION",
+        "CR": 4,
+        "SEMESTRE": 6,
+        "PERIODO": "ENE-JUN/2017",
+        "CALIFICACION": 88,
+        "OPORTUNIDAD": ["ORD", "COMP"]
+      },
+      {
+        "nombre": "LENG. DE INTERFAZ",
+        "CR": 4,
+        "SEMESTRE": 6,
+        "PERIODO": "ENE-JUN/2017",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "TALLER DE INV. I",
+        "CR": 4,
+        "SEMESTRE": 6,
+        "PERIODO": "ENE-JUN/2017",
+        "CALIFICACION": 85,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "LENG. Y AUTOMATAS I",
+        "CR": 5,
+        "SEMESTRE": 6,
+        "PERIODO": "ENE-JUN/2017",
+        "CALIFICACION": 75,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "REDES DE COMPUTADORAS",
+        "CR": 5,
+        "SEMESTRE": 6,
+        "PERIODO": "ENE-JUN/2017",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "ADMON. DE BASE DE DATOS",
+        "CR": 5,
+        "SEMESTRE": 6,
+        "PERIODO": "ENE-JUN/2017",
+        "CALIFICACION": 82,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "ING. DE S.W.",
+        "CR": 5,
+        "SEMESTRE": 6,
+        "PERIODO": "ENE-JUN/2017",
+        "CALIFICACION": 75,
+        "OPORTUNIDAD": ["ORD", "COMP"]
+      },
+      {
+        "nombre": "SIST. PROGRAM.",
+        "CR": 4,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "PROG. LOG. FUNCIONAL",
+        "CR": 4,
+        "SEMESTRE": 7,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": 0,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "LENG. Y AUTOMATAS II",
+        "CR": 5,
+        "SEMESTRE": 7,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": 80,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "CONM. Y ENRUT. EN REDES DE DATOS",
+        "CR": 5,
+        "SEMESTRE": 7,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": 89,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "PROG. WEB",
+        "CR": 5,
+        "SEMESTRE": 7,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": 85,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "ACT. COMP.",
+        "CR": 5,
+        "SEMESTRE": 7,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": "AC",
+        "OPORTUNIDAD": ["ACREDITADA"]
+      },
+      {
+        "nombre": "FUND. DE SEG. EN REDES",
+        "CR": 6,
+        "SEMESTRE": 7,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": 87,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "GESTION DE PROY. DE SOFT.",
+        "CR": 6,
+        "SEMESTRE": 7,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": 85,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "PROG. LOG. FUNCIONAL",
+        "CR": 4,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "ADMON DE REDES",
+        "CR": 4,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 83,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "T. DE INV. II",
+        "CR": 4,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 83,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "FUND. DE CLOUD COMPUTING",
+        "CR": 5,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "WIRELESS NETWORKS",
+        "CR": 5,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 86,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "SEGURIDAD EN REDES",
+        "CR": 5,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "FIBRA ÓPTICA",
+        "CR": 5,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "SERV. SOC.",
+        "CR": 10,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "INTELIGENCIA ARTIFICIAL",
+        "CR": 4,
+        "SEMESTRE": 8,
+        "PERIODO": "VERANO/2018",
+        "CALIFICACION": 89,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "RESIDENCIA PROFESIONAL",
+        "CR": 10,
+        "SEMESTRE": 9,
+        "PERIODO": "AGO-DIC/2018",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      }
+    ]
+  },
+  {
+    "matricula": 14190355,
+    "materias_info": [
+      {
+        "nombre": "TALLER DE ÉTICA",
+        "CR": 4,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2014",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "TALLER DE ADMINISTRACIÓN",
+        "CR": 4,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2014",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "FUNDAMENTOS DE INVESTIGACIÓN",
+        "CR": 4,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2014",
+        "CALIFICACION": 89,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "CALCULO DIFERENCIAL",
+        "CR": 5,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2014",
+        "CALIFICACION": 96,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "FUNDAMENTOS DE PROGRAMACIÓN",
+        "CR": 5,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2014",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "MATEMÁTICAS DISCRETAS",
+        "CR": 5,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2014",
+        "CALIFICACION": 75,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "TALLER DE ADMINISTRACIÓN",
+        "CR": 4,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2014",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "CONTABILIDAD FINANCIERA",
+        "CR": 4,
+        "SEMESTRE": 2,
+        "PERIODO": "ENE-JUN/2015",
+        "CALIFICACION": 85,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "QUIMICA",
+        "CR": 4,
+        "SEMESTRE": 2,
+        "PERIODO": "ENE-JUN/2015",
+        "CALIFICACION": 85,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "CÁLCULO INTEGRAL",
+        "CR": 5,
+        "SEMESTRE": 2,
+        "PERIODO": "ENE-JUN/2015",
+        "CALIFICACION": 70,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "PROGRAMACIÓN ORIENTADA A OBJETOS",
+        "CR": 5,
+        "SEMESTRE": 2,
+        "PERIODO": "ENE-JUN/2015",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "ALG. LINEAL",
+        "CR": 5,
+        "SEMESTRE": 2,
+        "PERIODO": "ENE-JUN/2015",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "PROB. Y ESTADISTICA",
+        "CR": 5,
+        "SEMESTRE": 2,
+        "PERIODO": "ENE-JUN/2015",
+        "CALIFICACION": 99,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "CULT. EMPRESARIAL",
+        "CR": 4,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2015",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "INV. D OPERACIONES",
+        "CR": 4,
+        "SEMESTRE": 3,
+        "PERIODO": "AGO-DIC/2015",
+        "CALIFICACION": 89,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "SIST. OP.",
+        "CR": 4,
+        "SEMESTRE": 3,
+        "PERIODO": "AGO-DIC/2015",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD", "COMP"]
+      },
+      {
+        "nombre": "CALC. VECT",
+        "CR": 5,
+        "SEMESTRE": 3,
+        "PERIODO": "AGO-DIC/2015",
+        "CALIFICACION": 72,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "ESTRUC. D DATOS",
+        "CR": 5,
+        "SEMESTRE": 3,
+        "PERIODO": "AGO-DIC/2015",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "FISICA GRAL.",
+        "CR": 5,
+        "SEMESTRE": 3,
+        "PERIODO": "AGO-DIC/2015",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "METODOS NUMERICOS",
+        "CR": 4,
+        "SEMESTRE": 4,
+        "PERIODO": "ENE-JUN/2016",
+        "CALIFICACION": 0,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "TALLER DE S.O.",
+        "CR": 4,
+        "SEMESTRE": 4,
+        "PERIODO": "ENE-JUN/2016",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "EC. DIFERENCIALES",
+        "CR": 5,
+        "SEMESTRE": 4,
+        "PERIODO": "ENE-JUN/2016",
+        "CALIFICACION": 93,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "TOP. AVAN. D PROG.",
+        "CR": 5,
+        "SEMESTRE": 4,
+        "PERIODO": "ENE-JUN/2016",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "FUND. DE BASE DE DATOS",
+        "CR": 5,
+        "SEMESTRE": 4,
+        "PERIODO": "ENE-JUN/2016",
+        "CALIFICACION": 81,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "P. ELECT. Y APLIC. DIG.",
+        "CR": 5,
+        "SEMESTRE": 4,
+        "PERIODO": "ENE-JUN/2016",
+        "CALIFICACION": 87,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "METODOS NUMERICOS",
+        "CR": 4,
+        "SEMESTRE": 5,
+        "PERIODO": "AGO-DIC/2016",
+        "CALIFICACION": 93,
+        "OPORTUNIDAD": ["REP", "ORD"]
+      },
+      {
+        "nombre": "FUND. DE TELECOM.",
+        "CR": 4,
+        "SEMESTRE": 5,
+        "PERIODO": "AGO-DIC/2016",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "TALLER DE B. D.",
+        "CR": 4,
+        "SEMESTRE": 5,
+        "PERIODO": "AGO-DIC/2016",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "FUND. INGRIA. DE S.W.",
+        "CR": 4,
+        "SEMESTRE": 5,
+        "PERIODO": "AGO-DIC/2016",
+        "CALIFICACION": 86,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "DES. SUST.",
+        "CR": 5,
+        "SEMESTRE": 5,
+        "PERIODO": "AGO-DIC/2016",
+        "CALIFICACION": 75,
+        "OPORTUNIDAD": ["ORD", "COMP"]
+      },
+      {
+        "nombre": "SIMULACION",
+        "CR": 5,
+        "SEMESTRE": 5,
+        "PERIODO": "AGO-DIC/2016",
+        "CALIFICACION": 89,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "ARQ. DE COMPT.",
+        "CR": 5,
+        "SEMESTRE": 5,
+        "PERIODO": "AGO-DIC/2016",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "GRAFICACION",
+        "CR": 4,
+        "SEMESTRE": 6,
+        "PERIODO": "ENE-JUN/2017",
+        "CALIFICACION": 88,
+        "OPORTUNIDAD": ["ORD", "COMP"]
+      },
+      {
+        "nombre": "LENG. DE INTERFAZ",
+        "CR": 4,
+        "SEMESTRE": 6,
+        "PERIODO": "ENE-JUN/2017",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "TALLER DE INV. I",
+        "CR": 4,
+        "SEMESTRE": 6,
+        "PERIODO": "ENE-JUN/2017",
+        "CALIFICACION": 85,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "LENG. Y AUTOMATAS I",
+        "CR": 5,
+        "SEMESTRE": 6,
+        "PERIODO": "ENE-JUN/2017",
+        "CALIFICACION": 75,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "REDES DE COMPUTADORAS",
+        "CR": 5,
+        "SEMESTRE": 6,
+        "PERIODO": "ENE-JUN/2017",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "ADMON. DE BASE DE DATOS",
+        "CR": 5,
+        "SEMESTRE": 6,
+        "PERIODO": "ENE-JUN/2017",
+        "CALIFICACION": 82,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "ING. DE S.W.",
+        "CR": 5,
+        "SEMESTRE": 6,
+        "PERIODO": "ENE-JUN/2017",
+        "CALIFICACION": 75,
+        "OPORTUNIDAD": ["ORD", "COMP"]
+      },
+      {
+        "nombre": "SIST. PROGRAM.",
+        "CR": 4,
+        "SEMESTRE": 1,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "PROG. LOG. FUNCIONAL",
+        "CR": 4,
+        "SEMESTRE": 7,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": 0,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "LENG. Y AUTOMATAS II",
+        "CR": 5,
+        "SEMESTRE": 7,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": 80,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "CONM. Y ENRUT. EN REDES DE DATOS",
+        "CR": 5,
+        "SEMESTRE": 7,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": 89,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "PROG. WEB",
+        "CR": 5,
+        "SEMESTRE": 7,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": 85,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "ACT. COMP.",
+        "CR": 5,
+        "SEMESTRE": 7,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": "AC",
+        "OPORTUNIDAD": ["ACREDITADA"]
+      },
+      {
+        "nombre": "FUND. DE SEG. EN REDES",
+        "CR": 6,
+        "SEMESTRE": 7,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": 87,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "GESTION DE PROY. DE SOFT.",
+        "CR": 6,
+        "SEMESTRE": 7,
+        "PERIODO": "AGO-DIC/2017",
+        "CALIFICACION": 85,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "PROG. LOG. FUNCIONAL",
+        "CR": 4,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "ADMON DE REDES",
+        "CR": 4,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 83,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "T. DE INV. II",
+        "CR": 4,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 83,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "FUND. DE CLOUD COMPUTING",
+        "CR": 5,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "WIRELESS NETWORKS",
+        "CR": 5,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 86,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "SEGURIDAD EN REDES",
+        "CR": 5,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "FIBRA ÓPTICA",
+        "CR": 5,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 90,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "SERV. SOC.",
+        "CR": 10,
+        "SEMESTRE": 8,
+        "PERIODO": "ENE-JUN/2018",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "INTELIGENCIA ARTIFICIAL",
+        "CR": 4,
+        "SEMESTRE": 8,
+        "PERIODO": "VERANO/2018",
+        "CALIFICACION": 89,
+        "OPORTUNIDAD": ["ORD"]
+      },
+      {
+        "nombre": "RESIDENCIA PROFESIONAL",
+        "CR": 10,
+        "SEMESTRE": 9,
+        "PERIODO": "AGO-DIC/2018",
+        "CALIFICACION": 100,
+        "OPORTUNIDAD": ["ORD"]
+      }
+    ]
+  }
+]
