@@ -1,6 +1,8 @@
 [
   {
     "matricula": 14190342,
+    "porAvance": 80,
+    "promGen": 70,
     "materias_info": [
       {
         "nombre": "TALLER DE ÉTICA",
@@ -462,6 +464,8 @@
   },
   {
     "matricula": 14190345,
+    "porAvance": 90,
+    "promGen": 75,
     "materias_info": [
       {
         "nombre": "TALLER DE ÉTICA",
@@ -923,6 +927,8 @@
   },
   {
     "matricula": 14190348,
+    "porAvance": 100,
+    "promGen": 90,
     "materias_info": [
       {
         "nombre": "TALLER DE ÉTICA",
@@ -1384,6 +1390,8 @@
   },
   {
     "matricula": 14190355,
+    "porAvance": 100,
+    "promGen": 100,
     "materias_info": [
       {
         "nombre": "TALLER DE ÉTICA",
